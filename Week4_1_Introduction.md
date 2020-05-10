@@ -1,3 +1,4 @@
+### title: Covid19-Number of new patients estimation
 # Introduction
 ## Background
 COVID 19, one of the coronavirus was found in Wuhan China around January and spread to the whole world immediately. It killed hundreds and thousands of people, damages the world economy. How the number of infected people increases is one of the key parameters for everyone who would like to predict future governmental and social policy. For instance, policymakers and managers who had to prepare for the production of medical resources and allocation, restaurants, and shop owners have to calculate how much cash they have, and how long they can keep their business under a curfew of not going out. Predicting the change of infected cases is critical to saving patients, policymakers, and business owners to keep their lives, social stability, and their lives.
