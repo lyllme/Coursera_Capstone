@@ -1,4 +1,5 @@
 # Data
+## Data set
 The target of this research is to expect a theoretical number of infected persons.Data that might contribute to determining the number of new patients of coronavirus per day include reported cases per day per country and fatalities per day per country. This is a time-series data set, starting from January 21st, 2020. I will use foursquare to acquire locational data to visualize the intercountry difference.
 
 ## Nessesity of this research
